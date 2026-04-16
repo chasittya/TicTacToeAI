@@ -49,9 +49,14 @@ This project implements a classic Tic Tac Toe game enhanced with artificial inte
 ## Project Structure
 
 ```text
-tictactoeai/
+TicTacToeAI/
+├── assets/
+│   ├── Play Rect.png
+│   ├── Options Rect.png
+│   └── Quit Rect.png
 ├── tictactoe.py
 ├── runner.py
+├── button.py
 ├── requirements.txt
 └── README.md
 ```
